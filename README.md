@@ -1,4 +1,4 @@
-## automatic language switching depending on the program.ahk
+## Automatic language switching depending on the program
 This AutoHotkey v2 script constantly runs in the background and automatically switches the input language depending on which program is active.
 
 In this case, Windows has two languages - ENG and RUS. There are several programs where the default language should be Russian, and all other programs where the default language should be English. When switching between programs, the script automatically selects the appropriate language. At the same time, any error messages that AutoHotkey tends to display on the screen are suppressed. They do not appear.
