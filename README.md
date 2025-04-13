@@ -7,7 +7,7 @@ This script can be launched by clicking its icon. Using AutoHotkey, you can gene
 
 AutoHotkey  https://github.com/AutoHotkey/AutoHotkey
 
------- RUSSIAN
+**RUSSIAN**
 
 Этот скрипт AutoHotkey v2  всегда висит в памяти и автоматически переключает язык ввода в зависимости от того, какая программа активна.
 
